@@ -4,6 +4,7 @@
   "description": "Proyecto Tercera Unidad AWOS",
   "main": "index.js",
   "scripts": {
+    "start": "node server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "De Lira Reyes Daniela Guadalupe, Gomez Dominguez Pedro Alejandro y Gonzalez Limon Guadalupe del Rocio",
