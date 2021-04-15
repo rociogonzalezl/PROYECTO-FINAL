@@ -37,6 +37,7 @@ app.post('/usuario', function(req, res) {
         nombre: body.nombre,
         email: body.email,
         password: bcrypt.hashSync(body.password, 10)
+   
     });
 
     usr.save((err, usrDB) => {
