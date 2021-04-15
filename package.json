@@ -10,8 +10,20 @@
   "author": "De Lira Reyes Daniela Guadalupe, Gomez Dominguez Pedro Alejandro y Gonzalez Limon Guadalupe del Rocio",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
-    "mongoose": "^5.12.3"
-  }
+    "mongoose": "^5.12.3",
+    "supervisor": "^0.12.0",
+    "underscore": "^1.13.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rociogonzalezl/PROYECTO-FINAL.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rociogonzalezl/PROYECTO-FINAL/issues"
+  },
+  "homepage": "https://github.com/rociogonzalezl/PROYECTO-FINAL#readme"
 }
